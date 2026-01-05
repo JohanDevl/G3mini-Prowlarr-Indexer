@@ -13,7 +13,7 @@ Custom Prowlarr/Jackett indexer definition for **G3mini**, a French private torr
 
 ### Step 1 — Copy the indexer file
 
-Copy `g3mini-api.yml` to Prowlarr's custom definitions folder:
+Download [`g3mini-api.yml`](https://github.com/JohanDevl/G3mini-Prowlarr-Indexer/blob/main/g3mini-api.yml) and copy it to Prowlarr's custom definitions folder:
 
 | Platform | Path                                     |
 | :------- | :--------------------------------------- |
