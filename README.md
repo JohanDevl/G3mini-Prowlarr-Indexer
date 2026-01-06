@@ -106,10 +106,9 @@ sudo systemctl restart prowlarr
 
 ## 📜 Tracker Rules
 
-| Rule              | Value  |
-| :---------------- | :----- |
-| Minimum ratio     | 0.5    |
-| Minimum seed time | 3 days |
+| Rule          | Value |
+| :------------ | :---- |
+| Minimum ratio | 0.75  |
 
 ---
 
