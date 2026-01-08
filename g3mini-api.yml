@@ -11,15 +11,19 @@ links:
 caps:
   categorymappings:
     - { id: 1, cat: Movies, desc: "Films" }
-    - { id: 6, cat: Movies, desc: "Films VOSTFR" }
-    - { id: 2, cat: TV, desc: "Series" }
-    - { id: 7, cat: TV, desc: "Series VOSTFR" }
-    - { id: 8, cat: TV, desc: "Series Pack" }
-    - { id: 9, cat: TV, desc: "Series Pack VOSTFR" }
-    - { id: 3, cat: Books, desc: "Ebooks" }
-    - { id: 4, cat: Console, desc: "Jeux" }
-    - { id: 5, cat: PC, desc: "Logiciel" }
+    - { id: 2, cat: TV, desc: "Séries" }
+    - { id: 3, cat: PC/Games, desc: "Jeux PC" }
+    - { id: 4, cat: Console, desc: "Jeux Consoles" }
+    - { id: 5, cat: Audio, desc: "Audios" }
+    - { id: 6, cat: TV/Anime, desc: "Animes" }
+    - { id: 7, cat: Movies/Anime, desc: "Films Animation Japonaise" }
+    - { id: 8, cat: Books/Comics, desc: "Bandes dessinées" }
+    - { id: 9, cat: Books/Magazines, desc: "Magazines" }
     - { id: 10, cat: TV/Sport, desc: "Sports" }
+    - { id: 11, cat: Books/Comics, desc: "Mangas" }
+    - { id: 12, cat: Books/EBook, desc: "Livres" }
+    - { id: 13, cat: Movies/Documentary, desc: "Documentaires - Film" }
+    - { id: 14, cat: TV/Documentary, desc: "Documentaires - Series" }
 
   modes:
     search: [q]

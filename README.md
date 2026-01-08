@@ -56,18 +56,22 @@ sudo systemctl restart prowlarr
 
 ## 📂 Categories
 
-| ID  | Category           |
-| :-- | :----------------- |
-| 1   | Films              |
-| 6   | Films VOSTFR       |
-| 2   | Series             |
-| 7   | Series VOSTFR      |
-| 8   | Series Pack        |
-| 9   | Series Pack VOSTFR |
-| 3   | Ebooks             |
-| 4   | Jeux               |
-| 5   | Logiciel           |
-| 10  | Sports             |
+| ID  | Category                     |
+| :-- | :--------------------------- |
+| 1   | Films                        |
+| 2   | Séries                       |
+| 3   | Jeux PC                      |
+| 4   | Jeux Consoles                |
+| 5   | Audios                       |
+| 6   | Animes                       |
+| 7   | Films Animation Japonaise    |
+| 8   | Bandes dessinées             |
+| 9   | Magazines                    |
+| 10  | Sports                       |
+| 11  | Mangas                       |
+| 12  | Livres                       |
+| 13  | Documentaires - Film         |
+| 14  | Documentaires - Series       |
 
 ---
 
